@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Football News</string>
+    <string name="search_view_hint">Enter a search tag</string>
+    <string name="search_hint">politics</string>
+    <string name="search_button_name">search</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="no_news">No sports news found.</string>
+    <string name="hint_search">Search something</string>
+    <string name="author_name">Stephen King</string>
+    <string name="pub_date">2017-07-05</string>
+    <string name="football">#football</string>
+    <string name="news_title">England manage to miraculously win the world cup</string>
+</resources>
